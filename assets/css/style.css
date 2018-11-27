@@ -1,0 +1,39 @@
+body { 
+    background: black;
+}
+
+
+
+#game-intro {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    background: black;
+}
+
+
+#time-remain {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    background: black;
+}
+
+.grid-container {
+    background-color: gray;
+}
+
+.row {
+    padding: 50px;
+
+
+
+
+}
+
+.grid-item {
+    margin: 50px;
+    font-size: 120%;
+    padding 20px;
+    text-align: center;
+}
